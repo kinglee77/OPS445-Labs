@@ -1,0 +1,111 @@
+test_0 (__main__.lab3a.test_0)
+[Lab 3] - [Investigation 1] - [Part 4] - Functions - Test for file creation: ./lab3a.py ... ok
+test_1 (__main__.lab3a.test_1)
+[Lab 3] - [Investigation 1] - [Part 4] - Functions - Test for errors running: ./lab3a.py ... ok
+test_2 (__main__.lab3a.test_2)
+[Lab 3] - [Investigation 1] - [Part 4] - Functions - Test for correct shebang line: ./lab3a.py ... ok
+test_4_function_return_text_value (__main__.lab3a.test_4_function_return_text_value)
+[Lab 3] - [Investigation 1] - [Part 4] - Functions - function print_out_text() has correct output ... ok
+test_5_function_return_number_value (__main__.lab3a.test_5_function_return_number_value)
+[Lab 3] - [Investigation 1] - [Part 4] - Functions - function print_out_text() has correct output ... ok
+test_0 (__main__.lab3b.test_0)
+[Lab 3] - [Investigation 2] - [Part 1] - Functions - Test for file creation: ./lab3b.py ... ok
+test_1 (__main__.lab3b.test_1)
+[Lab 3] - [Investigation 2] - [Part 1] - Functions - Test for errors running: ./lab3b.py ... ok
+test_2 (__main__.lab3b.test_2)
+[Lab 3] - [Investigation 2] - [Part 1] - Functions - Test for correct shebang line: ./lab3b.py ... ok
+test_4_function_sum (__main__.lab3b.test_4_function_sum)
+[Lab 3] - [Investigation 2] - [Part 1] - functions & arguments - function sum_numbers() fails without 2 arguments ... ok
+test_5_function_subtract (__main__.lab3b.test_5_function_subtract)
+[Lab 3] - [Investigation 2] - [Part 1] - functions & arguments - function subtract_numbers() fails without 2 arguments ... ok
+test_6_function_multiply (__main__.lab3b.test_6_function_multiply)
+[Lab 3] - [Investigation 2] - [Part 1] - functions & arguments - function multiply_numbers() fails without 2 arguments ... ok
+test_7_function_sum_output (__main__.lab3b.test_7_function_sum_output)
+[Lab 3] - [Investigation 2] - [Part 1] - functions & arguments - function add_numbers() adds correctly ... ok
+test_8_function_subtract_output (__main__.lab3b.test_8_function_subtract_output)
+[Lab 3] - [Investigation 2] - [Part 1] - functions & arguments - function subtract_numbers() subtracts correctly ... ok
+test_9_function_multiply_output (__main__.lab3b.test_9_function_multiply_output)
+[Lab 3] - [Investigation 2] - [Part 1] - functions & arguments - function multiply_numbers() multiplies correctly ... ok
+test_0 (__main__.lab3c.test_0)
+[Lab 3] - [Investigation 2] - [Part 1] - Functions - Test for file creation: ./lab3c.py ... ok
+test_1 (__main__.lab3c.test_1)
+[Lab 3] - [Investigation 2] - [Part 1] - Functions - Test for errors running: ./lab3c.py ... ok
+test_2 (__main__.lab3c.test_2)
+[Lab 3] - [Investigation 2] - [Part 1] - Functions - Test for correct shebang line: ./lab3X.py ... ok
+test_4_function_sum (__main__.lab3c.test_4_function_sum)
+[Lab 3] - [Investigation 2] - [Part 1] - functions & arguments & logic - function operate() fails with 0 arguments ... ok
+test_5_function_subtract (__main__.lab3c.test_5_function_subtract)
+[Lab 3] - [Investigation 2] - [Part 1] - functions & arguments & logic - function operate() fails with 1 arguments ... ok
+test_6_function_multiply (__main__.lab3c.test_6_function_multiply)
+[Lab 3] - [Investigation 2] - [Part 1] - functions & arguments & logic - function operate() fails with 2 arguments ... ok
+test_7_function_sum_output (__main__.lab3c.test_7_function_sum_output)
+[Lab 3] - [Investigation 2] - [Part 1] - functions & arguments & logic - function operate() adds correctly test 1 ... ok
+test_8_function_subtract_output (__main__.lab3c.test_8_function_subtract_output)
+[Lab 3] - [Investigation 2] - [Part 1] - functions & arguments & logic - function operate() subtracts correctly test 1 ... ok
+test_9_function_multiply_output (__main__.lab3c.test_9_function_multiply_output)
+[Lab 3] - [Investigation 2] - [Part 1] - functions & arguments & logic - function operate() multiplies correctly test 1 ... ok
+test_a_function_sum_output (__main__.lab3c.test_a_function_sum_output)
+[Lab 3] - [Investigation 2] - [Part 1] - functions & arguments & logic - function operate() adds correctly test 2 ... ok
+test_b_function_subtract_output (__main__.lab3c.test_b_function_subtract_output)
+[Lab 3] - [Investigation 2] - [Part 1] - functions & arguments & logic - function operate() subtracts correctly test 2 ... ok
+test_c_function_multiply_output (__main__.lab3c.test_c_function_multiply_output)
+[Lab 3] - [Investigation 2] - [Part 1] - functions & arguments & logic - function operate() multiplies correctly test 2 ... ok
+test_d_function_multiply_output (__main__.lab3c.test_d_function_multiply_output)
+[Lab 3] - [Investigation 2] - [Part 1] - functions & arguments & logic - function operate() fails with division ... ok
+test_0 (__main__.lab3d.test_0)
+[Lab 3] - [Investigation 2] - [Part 2] - Functions - Test for file creation: ./lab3d.py ... ok
+test_a (__main__.lab3d.test_a)
+[Lab 3] - [Investigation 2] - [Part 2] - Functions - Test for errors running: ./lab3d.py ... ok
+test_a1 (__main__.lab3d.test_a1)
+[Lab 3] - [Investigation 2] - [Part 2] - Functions - Test for correct shebang line: ./lab3d.py ... ok
+test_a_function_free_space (__main__.lab3d.test_a_function_free_space)
+[Lab 3] - [Investigation 2] - [Part 2] - functions & subprocess - Test function succeeds with 0 arguments ... ok
+test_b_function_correct_output_free_space (__main__.lab3d.test_b_function_correct_output_free_space)
+[Lab 3] - [Investigation 2] - [Part 2] - functions & subprocess - Test output shows free space of root ... ok
+test_c_function_decode_free_space (__main__.lab3d.test_c_function_decode_free_space)
+[Lab 3] - [Investigation 2] - [Part 2] - functions & subprocess - decode to utf-8 with string.decode('utf-8') successfully ... ok
+test_d_function_strip_free_space (__main__.lab3d.test_d_function_strip_free_space)
+[Lab 3] - [Investigation 2] - [Part 2] - functions & subprocess - strip the new line character with string.strip() successfully ... ok
+test_0 (__main__.lab3e.test_0)
+[Lab 3] - [Investigation 3] - [Part 1] - Functions - Test for file creation: ./lab3e.py ... ok
+test_a (__main__.lab3e.test_a)
+[Lab 3] - [Investigation 3] - [Part 1] - Functions - Test for errors running: ./lab3e.py ... ok
+test_a1 (__main__.lab3e.test_a1)
+[Lab 3] - [Investigation 3] - [Part 1] - Functions - Test for correct shebang line: ./lab3X.py ... ok
+test_a_function_list (__main__.lab3e.test_a_function_list)
+[Lab 3] - [Investigation 3] - [Part 1] - functions & lists - print first item in list ... ok
+test_b_function_first (__main__.lab3e.test_b_function_first)
+[Lab 3] - [Investigation 3] - [Part 1] - functions & lists - print first item in list ... ok
+test_c_function_first_and_last (__main__.lab3e.test_c_function_first_and_last)
+[Lab 3] - [Investigation 3] - [Part 1] - functions & lists - print last item in list ... ok
+test_d_function_second_and_third (__main__.lab3e.test_d_function_second_and_third)
+[Lab 3] - [Investigation 3] - [Part 1] - functions & lists - print last item in list ... ok
+test_0 (__main__.lab3f.test_0)
+[Lab 3] - [Investigation 3] - [Part 3] - functions & lists & for loops - Test for file creation: ./lab3f.py ... ok
+test_a (__main__.lab3f.test_a)
+[Lab 3] - [Investigation 3] - [Part 3] - functions & lists & for loops - Test for errors running: ./lab3f.py ... ok
+test_a1 (__main__.lab3f.test_a1)
+[Lab 3] - [Investigation 3] - [Part 3] - functions & lists & for loops - Test for correct shebang line: ./lab3f.py ... ok
+test_b_function_add_item_to_list (__main__.lab3f.test_b_function_add_item_to_list)
+[Lab 3] - [Investigation 3] - [Part 3] - functions & lists & for loops - check for correct items in list ... ok
+test_c_function_add_item_to_list (__main__.lab3f.test_c_function_add_item_to_list)
+[Lab 3] - [Investigation 3] - [Part 3] - functions & lists & for loops - check for correct items in list ... ok
+test_d_function_remove_items_from_list (__main__.lab3f.test_d_function_remove_items_from_list)
+[Lab 3] - [Investigation 3] - [Part 3] - functions & lists & for loops - check for correct items in list ... ok
+test_e_function_remove_items_from_list (__main__.lab3f.test_e_function_remove_items_from_list)
+[Lab 3] - [Investigation 3] - [Part 3] - functions & lists & for loops - check for correct items in list ... ok
+
+----------------------------------------------------------------------
+Ran 48 tests in 0.786s
+
+OK
+OPS445 Lab Report - System Information for running ./CheckLab3.py
+=================================================================
+    User login name: liabrown
+    Linux system name: fedora
+    Python executable: /usr/bin/python3
+    Python version: 3123
+    OS Platform: linux
+    Working Directory: /home/liabrown/OPS445-Labs/lab3
+    Start at: Wed Jun 12 20:19:49 2024
+=================================================================
